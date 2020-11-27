@@ -23,3 +23,11 @@ The bug tracker is for _reporting bugs_, not for asking questions. Please direct
 [`.travis.yml`](.travis.yml) &mdash; a list of installation dependencies
 
 [`CONTRIBUTING.md`](CONTRIBUTING.md) &mdash; contributing guidelines
+
+
+安装目录找到 “fontforge.bat” 文件，然后任意文本编辑器编辑
+
+找到
+
+::set LANGUAGE=en
+去掉前面的两个冒号
